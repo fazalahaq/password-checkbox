@@ -1,0 +1,7 @@
+Create a text box to enter user password and a checkbox to show/hide password. 
+
+The checkbox will be unchecked by default and the password should be encrypted.
+
+The checkbox when checked would show the user password as plain text. When unchecked, it would make the password encrypted.
+
+Use JQuery for implementation and CSS for designing.
